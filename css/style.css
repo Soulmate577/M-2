@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: red; */
+}
+body{
+    background-color: rgb(175, 145, 199);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+h1 {
+    /* align-self: flex-end; */
+    text-align: center;
+    background-color: rgba(132, 28, 192, 0.281);
+}
+
+li {
+    border-style: solid;
+    background-color: rgba(255, 0, 149, 0.315);
+    list-style: none;
+}
